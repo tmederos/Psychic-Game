@@ -4,4 +4,7 @@
 p{
   font-size: 24px;
 }
-
+hr{
+  background: red;
+  height: 3px;
+}
