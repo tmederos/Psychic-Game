@@ -9,8 +9,8 @@ function pickAlphabetLetter(){
   return alphabet[Math.floor(Math.random()*alphabet.length)];
 }
 var computerChoice = pickAlphabetLetter();
-
-//
+    //
+    console.log("Secret Letter - " + computerChoice);
     // This function is run whenever the user presses a key.
     document.onkeyup = function(event) {
     // Determines which key was pressed.
@@ -22,8 +22,7 @@ var computerChoice = pickAlphabetLetter();
       guessesList = '';
       computerChoice = pickAlphabetLetter();
     };
-    //
-    console.log("Computer - " + computerChoice + '   User - ' + userGuess );
+
     //
     // Check to see if the user's Guess matches the computer's value.
     if ( userGuess === computerChoice ) {
