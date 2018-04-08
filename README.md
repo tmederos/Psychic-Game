@@ -4,7 +4,7 @@ Psychic game is an app that randomly picks a letter, and the user has to guess w
 
 
 ---
-Check out the app here: https://tmederos.github.io/TriviaGame/
+Check out the app here: https://tmederos.github.io/Psychic-Game/
 
 ---
 # Screenshot
