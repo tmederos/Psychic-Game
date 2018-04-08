@@ -8,7 +8,7 @@ Check out the app here: https://tmederos.github.io/Psychic-Game/
 
 ---
 # Screenshot
-![Screenshot](https://github.com/tmederos/TriviaGame/blob/master/assets/images/screen-shot.jpg)
+![Screenshot](https://github.com/tmederos/Psychic-Game/blob/master/assets/images/screen-shot.jpg)
 
 ---
 Technologies used
